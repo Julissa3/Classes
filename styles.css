@@ -1,0 +1,31 @@
+.orangeBox{
+    background-color: orange;
+    width: 100%;
+    height: 100%;
+    color: white;
+    display: inline-block;
+    padding: 50px;
+    border: 1px solid red;
+    margin: 50px;
+    font-family: "Protest Guerrilla", sans-serif;
+        /* text-align:center*/
+}
+
+.paraDecor{
+    background-color: lightblue;
+    color: white;
+    font: bold;
+    width: 50%;
+    height: 100px;
+    padding:50px;
+    margin: 10px;
+    border: 1px solid lightcoral;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: "Protest Strike", sans-serif;
+}
+
+.paraDeco{
+    font-family: "Protest Strike", sans-serif;
+}
